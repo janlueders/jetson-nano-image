@@ -96,6 +96,7 @@
     - usbutils
     - vim
     - wpasupplicant
+    - git
 
 - name: Generate locales
   locale_gen:
